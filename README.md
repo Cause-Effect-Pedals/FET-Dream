@@ -1,7 +1,7 @@
 # FET-Dream
 Licensed under: **CC BY-NC-SA 4.0**. Please see: [the link to creative commons license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-**Detailed Description taken from the website:**
+## Detailed Description taken from the website:
 The foundation of the FET Dream tone is a tube-like FET input stage. This stage is crafted from *individually selected JFET transistors* and hand-tuned on every pedal to achieve a warm tube-amp like clean tone, rich in 2nd harmonics, while simultaneously avoiding any trace of tone-suck and preserving the subtleties of the guitar pickup character.
 The FET Dream also features a unique and innovative pre-distortion equalization control. The Girth circuit provides a wide range of adjustment to balance the low/mids prior to distortion generation. The adjustment range can accommodate a wide variety of pickups and player's tastes to support whatever degree of 'fat' is preferred in the overall tone of the pedal. Careful management of the bass and avoiding the muddying mid-hump are a couple of the key secrets to the openness and clarity of the FET Dream.
 
