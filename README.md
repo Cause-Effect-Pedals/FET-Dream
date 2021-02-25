@@ -14,4 +14,4 @@ The final output section of the FET Dream features an innovative Lean control to
 
 Taken altogether, the flexible controls and tone management in the FET Dream combine to maximize sustain and presence while preserving player dynamics and emphasizing clarity and definition... Often considered contradictory goals but uniquely realized in Cause and Effect Pedals' FET Dream!
 
-![FET Dream pedal](.png)
+![FET Dream pedal](/web-angle-image1.png)
