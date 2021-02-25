@@ -1,5 +1,9 @@
 The FET Dream was designed using spice simulations and captured in ExpressPCB.  There is a separate directory for the ExpressPCB custom library parts. Particular care was made in the layout of the ground resulting in a very quiet pedal even at extremely high gains.
 
+The schematic indicates 2N5484 for the jFETs but in practice J204 was used.  The 2N5484 was too variable and yielded too few useful parts in the selection process
+
 A tiny breadboard was created to measure and select the JFETs.  Vp and Idss were measured and recorded and then the FETS selected for a narrow range of Vp averaging around 1.20V.  The idea was to introduce some 2nd harmonic distortion if the player really dug in using a humbucker pickup.  For certain artists the FET was selected specifically to suit their style and pickup preference to ensure they could benefit from the feature.  Only about 40% of the J204 FETs were selected and the rest discarded.
 
 In constructing the pedal a major step was to take the recorded values of Vp and Idss and do some spreadsheet calculations to determine the correct values for Rd (TR1) and Rs (TR2).  These values were also recorded on the 'FET tuning' sheet found inside each pedal.  Rs trimmer was adjusted for correct Vs on test point W5 and then Rd trimmer was adjusted for Vd on test point W4, in that particular order!  One spreadsheet example is also uploaded here.
+
+There were some build options in the FET Dream, for example the schematic shows both an emitter follower and a FET follower... only one was populated and in practice it was the emitter follower with a 2N3904 transistor. The FET follower is a good way to use up FETs that didn't fall into the narrow range we look for, but it also required a couple of extra resistors and was a pain.  The other option considered at design time was to replace the peaking low-pass filter with a bandpass, but we liked the control and sound from the low pass so settled on that in production.
