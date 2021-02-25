@@ -13,3 +13,5 @@ The cornerstone of FET Dream is the distortion stage. It's unique design creates
 The final output section of the FET Dream features an innovative Lean control to tweak the tone to suit your style, amplifier chain and venue. A full range treble control with variable filter Q, the Lean knob ensures you can find the right emphasis to cut through the mix, and the flexibility to span from tame to aggressive highs in your distortion tone.
 
 Taken altogether, the flexible controls and tone management in the FET Dream combine to maximize sustain and presence while preserving player dynamics and emphasizing clarity and definition... Often considered contradictory goals but uniquely realized in Cause and Effect Pedals' FET Dream!
+
+![FET Dream pedal](.png)
