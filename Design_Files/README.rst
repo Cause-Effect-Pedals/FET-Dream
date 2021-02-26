@@ -2,7 +2,7 @@ The FET Dream was designed using spice simulations and captured in ExpressPCB.  
 
 The schematic indicates 2N5484 for the jFETs but in practice J204 was used.  The 2N5484 was too variable and yielded too few useful parts in the selection process
 
-A tiny breadboard was created to measure and select the JFETs.  Vp and Idss were measured and recorded and then the FETS selected for a narrow range of Vp averaging around 1.20V.  The idea was to introduce some 2nd harmonic distortion if the player really dug in using a humbucker pickup.  For certain artists the FET was selected specifically to suit their style and pickup preference to ensure they could benefit from the feature.  Only about 40% of the J204 FETs were selected and the rest discarded.
+A tiny breadboard was created to measure and select the JFETs.  There is a picture of the schematic and stripboard. Vp and Idss were measured and recorded and then the FETs selected for a narrow range of Vp averaging around 1.20V.  The idea was to introduce some 2nd harmonic distortion if the player really dug in using a humbucker pickup.  For certain artists the FET was selected specifically to suit their style and pickup preference to ensure they could benefit from the feature.  Only about 40% of the J204 FETs were selected and the rest discarded.
 
 In constructing the pedal a major step was to take the recorded values of Vp and Idss and do some spreadsheet calculations to determine the correct values for Rd (TR1) and Rs (TR2).  These values were also recorded on the 'FET tuning' sheet found inside each pedal.  Rs trimmer was adjusted for correct Vs on test point W5 and then Rd trimmer was adjusted for Vd on test point W4, in that particular order!  One spreadsheet example is also uploaded here.
 
