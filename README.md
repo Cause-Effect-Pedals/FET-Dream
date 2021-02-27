@@ -1,5 +1,6 @@
 # FET-Dream
 Licensed under: **CC BY-NC-SA 4.0**. Please see: [the link to creative commons license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 TL;DR: **NOT FOR COMMERCIAL USE** If you want to do a large run or sell a derivative of the FET Dream you need to approach us to license it for that purpose.
 
